@@ -1,4 +1,6 @@
-# DATA_EXPLORATION- PROJECT1
+# DATA ANALYST - PORTFOLIO PROJECTS
+
+# DATA EXPLORATION
 
 Before performing more complex analyses or modeling, 
 data exploration is an essential step in the data analysis process that involves looking at and comprehending a dataset. Gaining insights into the data, spotting patterns, oddities, 
